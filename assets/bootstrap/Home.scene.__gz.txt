@@ -1,0 +1,55 @@
+{
+ "assetPacks": "",
+ "height": 41,
+ "layers": [
+  {
+   "draworder": "index",
+   "height": 96,
+   "locked": false,
+   "name": "Object Layer 1",
+   "objects": [],
+   "opacity": 1,
+   "type": "objectgroup",
+   "visible": true,
+   "width": 64,
+   "x": 0,
+   "y": 0
+  }
+ ],
+ "orientation": "orthogonal",
+ "properties": {
+  "gravityX": "0",
+  "gravityY": "10",
+  "onKeyDown": "",
+  "onKeyUp": "",
+  "onPointerDown": "",
+  "onPointerUp": "",
+  "onPropertyChanged": "",
+  "onStarted": "",
+  "onStopped": "",
+  "onUpdated": ""
+ },
+ "renderorder": "right-down",
+ "script": {
+  "groups": [
+   {
+    "actions": [
+     {
+      "properties": {
+       "duration": "1",
+       "x": "50",
+       "y": "0"
+      },
+      "type": "ez.display.MoveBy"
+     }
+    ],
+    "name": "Move right"
+   }
+  ]
+ },
+ "tileheight": 16,
+ "tilesets": [],
+ "tilewidth": 16,
+ "version": 1,
+ "width": 64
+}
