@@ -108,7 +108,7 @@
                  "rotation":0,
                  "tintcolor":"#ffffff",
                  "type":"kit.creator.ui.Button",
-                 "visible":true,
+                 "visible":false,
                  "width":93,
                  "x":433.5,
                  "y":105.560606060606
@@ -911,7 +911,7 @@
      "onPointerDown":"",
      "onPointerUp":"",
      "onPropertyChanged":"",
-     "onStarted":"",
+     "onStarted":"GameHasStarted",
      "onStopped":"",
      "onUpdated":""
     },
