@@ -1,0 +1,37 @@
+{
+  "texturepacker": 1,
+  "atlases": [
+    {
+      "image": "SwitchLeftAnim.png",
+      "items": [
+        {
+          "name": "Player_Left_01",
+          "frame": [1,1,173,302],
+          "pivot": [86.5,151]
+        },
+        {
+          "name": "Player_Left_02",
+          "frame": [176,1,173,302],
+          "pivot": [86.5,151]
+        },
+        {
+          "name": "Player_Left_03",
+          "frame": [351,1,173,302],
+          "pivot": [86.5,151]
+        },
+        {
+          "name": "Player_Left_04",
+          "frame": [526,1,173,302],
+          "pivot": [86.5,151]
+        },
+        {
+          "name": "Player_Left_05",
+          "frame": [701,1,173,302],
+          "pivot": [86.5,151]
+        }
+        
+      ]
+    }
+    
+  ]
+}

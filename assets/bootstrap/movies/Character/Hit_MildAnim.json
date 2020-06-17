@@ -1,0 +1,37 @@
+{
+  "texturepacker": 1,
+  "atlases": [
+    {
+      "image": "Hit_MildAnim.png",
+      "items": [
+        {
+          "name": "Player_Hit_Barrier_01",
+          "frame": [1,1,173,302],
+          "pivot": [86.5,151]
+        },
+        {
+          "name": "Player_Hit_Barrier_02",
+          "frame": [176,1,173,302],
+          "pivot": [86.5,151]
+        },
+        {
+          "name": "Player_Hit_Barrier_03",
+          "frame": [351,1,173,302],
+          "pivot": [86.5,151]
+        },
+        {
+          "name": "Player_Hit_Barrier_04",
+          "frame": [526,1,173,302],
+          "pivot": [86.5,151]
+        },
+        {
+          "name": "Player_Hit_Barrier_05",
+          "frame": [701,1,173,302],
+          "pivot": [86.5,151]
+        }
+        
+      ]
+    }
+    
+  ]
+}

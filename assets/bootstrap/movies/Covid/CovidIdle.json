@@ -1,0 +1,27 @@
+{
+  "texturepacker": 1,
+  "atlases": [
+    {
+      "image": "CovidIdle.png",
+      "items": [
+        {
+          "name": "Covid_01",
+          "frame": [1,1,88,90],
+          "pivot": [44,45]
+        },
+        {
+          "name": "Covid_02",
+          "frame": [91,1,88,90],
+          "pivot": [44,45]
+        },
+        {
+          "name": "Covid_03",
+          "frame": [181,1,88,90],
+          "pivot": [44,45]
+        }
+        
+      ]
+    }
+    
+  ]
+}
